@@ -1,0 +1,1 @@
+Read Hive Table
